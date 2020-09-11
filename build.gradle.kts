@@ -10,7 +10,7 @@ project.version = "0.0.8"
 val artifactID = "ktsRunner"
 
 plugins {
-    kotlin("jvm") version "1.3.70"
+    kotlin("jvm") version "1.4.0"
     `maven-publish`
     `java-library`
     id("com.jfrog.bintray") version "1.8.4"
